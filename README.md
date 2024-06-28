@@ -6,7 +6,6 @@
 
 ![example](https://github.com/simple-uploader/vue-uploader/blob/master/example/simple-uploader.gif)
 
-![QQ](https://github.com/simple-uploader/Uploader/blob/develop/assets/simple-uploader-QQ-3.png?raw=true)
 
 [中文](./README_zh-CN.md)
 
